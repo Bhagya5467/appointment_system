@@ -1,0 +1,37 @@
+/* src/pages/BookAppointment.css */
+
+.book-appointment-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+
+.book-appointment-form {
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 500px;
+}
+
+.book-appointment-form h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.message {
+  color: green;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.btn-block {
+  width: 100%;
+}
